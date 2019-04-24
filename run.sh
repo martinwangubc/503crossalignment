@@ -1,0 +1,1 @@
+python style_transfer2.py --train ../data/yelp10/sentiment.train --dev ../data/yelp10/sentiment.dev --output ../tmp10/sentiment.dev --vocab ../tmp10/yelp.vocab --vocab2 ../tmp10/yelp.vocab2 --vocab3 ../tmp10/yelp.vocab3 --vocab4 ../tmp10/yelp.vocab4 --vocab5 ../tmp10/yelp.vocab5  --model ../tmp10/model

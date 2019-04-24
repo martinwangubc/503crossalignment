@@ -1,0 +1,1 @@
+python style_transfer.py --test ../data/yelp10/sentiment.test --output ../tmp10/sentiment.test --output2 ../tmp10/sentiment.test2 --output3 ../tmp10/sentiment.test3 --output4 ../tmp10/sentiment.test4 --output5 ../tmp10/sentiment.test5 --vocab ../tmp10/yelp.vocab --vocab2 ../tmp10/yelp.vocab2 --model ../tmp10/model --load_model true --beam 8
